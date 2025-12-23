@@ -82,5 +82,5 @@ try:
 except KeyboardInterrupt:
     # Save on exit
     save_data_to_mat()
-    print("Data saved and program exited.")
+    print("Data saved and program exited .")
     
